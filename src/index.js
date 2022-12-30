@@ -241,6 +241,14 @@ const projects = [
     github: "https://github.com/Damoblinkz2/elegant-style/",
     live: "https://elegant-style.vercel.app",
   },
+  {
+    id: 5,
+    img: "images/project/t&t-hero.jpg",
+    name: "TRAVEL",
+    des: "travels & tours",
+    github: "https://github.com/Damoblinkz2/travels-and-tours/",
+    live: "https://travels-and-tours.vercel.app",
+  },
 ];
 
 const newProject = projects.map((eachProject) => {
