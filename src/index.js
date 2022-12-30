@@ -235,7 +235,7 @@ const projects = [
   },
   {
     id: 4,
-    img: "https://github.com/Damoblinkz2/futras/blob/main/public/images/hero-banner.jpg",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhChyqttgkvh1-XhzGwbuvyV97gqYnWRqCO1A6Q3QHVEh1p-4cbetHT5SAPv031hHASjQNnOvhkQJArgh_sctjRrFdVjAXcr7sNRDfT3oB9T98HilGwf-KkY2a7ydSsywd5MM2TpF1Szg2p3dexiChqE41hLu2uQjh4jTwg7B74FIBR8d-lk_nZO_-oVA/s1280/Create%20Ecommerce%20Cosmetic%20Website%20Using%20HTML%20CSS%20And%20JS.png",
     name: "ELEGANT STYLE",
     des: "beauty & skincare",
     github: "https://github.com/Damoblinkz2/elegant-style/",
