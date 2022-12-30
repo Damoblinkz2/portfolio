@@ -236,10 +236,10 @@ const projects = [
   {
     id: 4,
     img: "https://github.com/Damoblinkz2/futras/blob/main/public/images/hero-banner.jpg",
-    name: "FUTRAS",
-    des: "fitness and nutrition",
-    github: "https://github.com/Damoblinkz2/futras/",
-    live: "futras.vercel.app",
+    name: "ELEGANT STYLE",
+    des: "beauty & skincare",
+    github: "https://github.com/Damoblinkz2/elegant-style/",
+    live: "elegant-style.vercel.app",
   },
 ];
 
