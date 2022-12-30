@@ -239,7 +239,7 @@ const projects = [
     name: "ELEGANT STYLE",
     des: "beauty & skincare",
     github: "https://github.com/Damoblinkz2/elegant-style/",
-    live: "elegant-style.vercel.app",
+    live: "https://elegant-style.vercel.app",
   },
 ];
 
