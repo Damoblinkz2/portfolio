@@ -249,6 +249,14 @@ const projects = [
     github: "https://github.com/Damoblinkz2/vegobank/",
     live: "https://vegobank.vercel.app",
   },
+  {
+    id: 6,
+    img: "images/project/vegosite.jpg",
+    name: "VEGOBANK WEB",
+    des: "banking website",
+    github: "https://github.com/Damoblinkz2/vegoweb/",
+    live: "https://vegoweb.vercel.app",
+  },
 ];
 
 const newProject = projects.map((eachProject) => {
