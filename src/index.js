@@ -61,7 +61,7 @@ const Content = () => {
 
 const About = () => {
   return (
-    <div className="about-container about">
+    <div className="about-container about" id="about">
       <img src="images/model.jpg" alt="about-img" />
       <div class="about-text">
         <h2>About Me</h2>
@@ -130,7 +130,7 @@ const eachService = services.map((service) => {
 
 const Services = () => {
   return (
-    <div className="services">
+    <div className="services" id="services">
       <div className="container">
         <div className="services-text">
           <h2>Services</h2>
@@ -285,7 +285,7 @@ const newProject = projects.map((eachProject) => {
 
 const Projects = () => {
   return (
-    <div className="project">
+    <div className="project" id="project">
       <div className="container">
         <h2>Projects</h2>
         <div className="row">{newProject}</div>
