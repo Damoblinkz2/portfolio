@@ -257,6 +257,14 @@ const projects = [
     github: "https://github.com/Damoblinkz2/vegoweb/",
     live: "https://vegoweb.vercel.app",
   },
+  {
+    id: 7,
+    img: "images/project/mapin-hero.jpg",
+    name: "MAPIN",
+    des: "track your running and cycling",
+    github: "https://github.com/Damoblinkz2/mapin/",
+    live: "https://mapin.vercel.app",
+  },
 ];
 
 const newProject = projects.map((eachProject) => {
@@ -271,10 +279,14 @@ const newProject = projects.map((eachProject) => {
           <h6>{eachProject.des}</h6>
           <div className="links">
             <span>
-              <a href={eachProject.github}>Github</a>
+              <a href={eachProject.github} target="_blank" rel="noreferrer">
+                Github
+              </a>
             </span>
             <span>
-              <a href={eachProject.live}>Live Site</a>
+              <a href={eachProject.live} target="_blank" rel="noreferrer">
+                Live Site
+              </a>
             </span>
           </div>
         </div>
