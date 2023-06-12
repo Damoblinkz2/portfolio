@@ -265,6 +265,14 @@ const projects = [
     github: "https://github.com/Damoblinkz2/mapin/",
     live: "https://mapin.vercel.app",
   },
+  {
+    id: 8,
+    img: "images/project/apex-hero.jpg",
+    name: "APEX",
+    des: "a full blog site",
+    github: "https://github.com/Damoblinkz2/apex/",
+    live: "https://apexblog.vercel.app",
+  },
 ];
 
 const newProject = projects.map((eachProject) => {
