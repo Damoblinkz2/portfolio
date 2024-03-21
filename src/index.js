@@ -49,7 +49,7 @@ const Content = () => {
           <a href="mailto:adedamolatomide@gmail.com">Hire me</a>
         </span>
         <span className="down-cv">
-          <a href="https://drive.google.com/file/d/18z7k3MQMBXpMmi9K3vvO2GJY39C6y5T_/view?usp=drivesdk">
+          <a href="https://drive.google.com/file/d/17meQ7uogb66N6zF9lQFhGJf8EMm0fuCr/view?usp=drive_link">
             Download CV
           </a>
         </span>
@@ -67,8 +67,8 @@ const About = () => {
         <h2>About Me</h2>
         <h4>Web Developer</h4>
         <p>
-          Hello,My name is Yusuf Adedamola. I am a frontend web developer with
-          3+ years of experience in this field.
+          Hello,My name is Adedamola Olatunji. I am a frontend web developer
+          with 3+ years of experience in this field.
         </p>
         <p>
           My aim is to leverage a proven knowledge of a web developer skills to
@@ -79,7 +79,7 @@ const About = () => {
           <a href="mailto:adedamolatomide@gmail.com">Hire me</a>
         </span>
         <span className="down-cv">
-          <a href="https://drive.google.com/file/d/18z7k3MQMBXpMmi9K3vvO2GJY39C6y5T_/view?usp=drivesdk">
+          <a href="https://drive.google.com/file/d/17meQ7uogb66N6zF9lQFhGJf8EMm0fuCr/view?usp=drive_link">
             Download CV
           </a>
         </span>
